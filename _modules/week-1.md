@@ -1,28 +1,22 @@
 ---
-title: Introduction to Java
+title: Language Models
 days:
-  - date: 2019-04-01
+  - date: 2020-01-21
     events:
-      "[Java & Git](#)":
-        "[1.1](#)"
-      "Homework 1 out":
+      "Introduction":
         null
-  - date: 2019-04-02
+  - date: 2020-01-23
     events:
-      "**Section**{: .label } [Intro to Java](#)":
-        "Solution"
-  - date: 2019-04-03
-    events:
-      "[Variables & Objects](#)":
-        "[1.2](#), [2.1](#)"
-  - date: 2019-04-04
-    events:
-      "**Lab**{: .label } [Intro to Java](#)":
+      "Language Modeling":
         null
-  - date: 2019-04-05
+      "Project 0 released": null
+  - date: 2020-01-28
     events:
-      "[Tracing, IntLists, & Recursion](#)":
-        "[2.1](#)"
-      "Homework 1 due":
+      "Neural LMs":
         null
+  - date: 2020-01-30
+    events:
+      "Language Modeling Tasks":
+        null
+      "Project 0 due": null
 ---
