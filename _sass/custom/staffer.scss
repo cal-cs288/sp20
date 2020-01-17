@@ -1,0 +1,21 @@
+.role {
+}
+
+.staffer {
+  display: flex;
+  padding: $sp-4;
+
+  p {
+    @extend .staffer-name;
+  }
+}
+
+.staffer-image {
+  border-radius: 50%;
+  height: $staffer-image-size;
+  margin-right: $sp-4;
+}
+
+.staffer-name {
+  margin: $sp-1;
+}
