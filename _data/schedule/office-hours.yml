@@ -4,38 +4,11 @@ timeline: [
   '6:00 PM', '6:30 PM', '7:00 PM', '7:30 PM', '8:00 PM', '8:30 PM',
 ]
 schedule:
-  - name: Monday
-    events:
-      - name: Office Hours
-        class: office-hours
-        start: 12:00 PM
-        end: 4:00 PM
-        location: 109 Morgan
   - name: Tuesday
     events:
       - name: Office Hours
         class: office-hours
-        start: 12:00 PM
-        end: 4:00 PM
-        location: 109 Morgan
-  - name: Wednesday
-    events:
-      - name: Office Hours
-        class: office-hours
-        start: 12:00 PM
-        end: 4:00 PM
-        location: 109 Morgan
-  - name: Thursday
-    events:
-      - name: Office Hours
-        class: office-hours
-        start: 12:00 PM
-        end: 4:00 PM
-        location: 109 Morgan
-  - name: Friday
-    events:
-      - name: Office Hours
-        class: office-hours
-        start: 12:00 PM
-        end: 4:00 PM
-        location: 109 Morgan
+        start: 3:30 PM
+        end: 4:30 PM
+        location: 781 Soda Hall
+
