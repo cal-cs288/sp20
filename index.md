@@ -7,7 +7,7 @@ description: >-
     for developing course websites.
 ---
 
-# CS 288: Statistical Natural Language Processing
+# Statistical Natural Language Processing
 {: .mb-2 }
 Spring 2020
 {: .mb-0 .fs-6 .text-grey-dk-000 }
@@ -15,7 +15,7 @@ Spring 2020
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 <div class="role">
   {% for staffer in instructors %}
-  {{ staffer }}
+  <!-- {{ staffer }} -->
   {% endfor %}
 </div>
 
@@ -25,4 +25,8 @@ Spring 2020
   All Announcements
 </a>
 {% endif %}
+
+{% for module in site.modules %}
+{{ module }}
+{% endfor %}
 
