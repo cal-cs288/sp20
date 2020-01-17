@@ -29,10 +29,6 @@
       {% if day.events %}
       <ul class="schedule-events" style="height: {{ include.data.timeline | size | times: include.row_height }}px">
       {% for event in day.events %}
-        {%- capture start -%}{% include _minutes.html time=event.start %}{%- endcapture -%}
-        {%- capture end -%}{% include _minutes.html time=event.end %}{%- endcapture -%}
-        {%- assign top = start | minus: offset | times: include.row_height | divided_by: include.interval -%}
-        {%- assign height = end | minus: start | times: include.row_height | divided_by: include.interval -%}
         <li class="schedule-event {{ event.class }}"
             style="top: {{ top }}px; height: {{ height }}px;">
           <div class="name">{{ event.name }}</div>
