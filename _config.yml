@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Just the Class
-description: A Jekyll theme for course websites.
-author: Kevin Lin
-email: me@example.com
+title: CS 288
+description: Statistical Natural Language Processing
+author: Dan Klein & John DeNero
+email: denero@berkeley.edu
 baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
-url: 'https://kevinl.info' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://cal-cs288.github.io/sp20' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
