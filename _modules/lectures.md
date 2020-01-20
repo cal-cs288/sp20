@@ -18,6 +18,7 @@ days:
     events:
       "Language Modeling Tasks":
         null
+      "Project 1 released (due Thursday 2/13)": null
   - date: 2020-02-04
     events:
       "Machine Translation 1": null
@@ -36,12 +37,13 @@ days:
   - date: 2020-02-20
     events:
       "Human Speech Production": null
+      "Project 2 released (due Thursday 3/5)": null
   - date: 2020-02-25
     events:
       "Parsing 1": null
   - date: 2020-02-27
     events:
-      "Parsing 22": null
+      "Parsing 2": null
   - date: 2020-03-03
     events:
       "Parsing 3": null
@@ -53,41 +55,43 @@ days:
       "TBD": null
   - date: 2020-03-12
     events:
-      "TBD": null
+      "Semantics": null
+      "Project 3 released (due Thursday 4/2)": null
   - date: 2020-03-17
     events:
-      "TBD": null
+      "Structured Models": null
   - date: 2020-03-19
     events:
-      "TBD": null
+      "Grounding": null
   - date: 2020-03-31
     events:
-      "TBD": null
+      "Ethics in NLP": null
   - date: 2020-04-02
     events:
-      "TBD": null
+      "Multilingual Models": null
   - date: 2020-04-07
     events:
-      "TBD": null
+      "Interactive Translation": null
   - date: 2020-04-09
     events:
       "TBD": null
+      "Project 4 released (due Thursday 4/23)": null
   - date: 2020-04-14
     events:
       "TBD": null
   - date: 2020-04-16
     events:
-      "TBD": null
+      "Grammar Induction": null
   - date: 2020-04-21
     events:
-      "TBD": null
+      "Historical Linguistics": null
   - date: 2020-04-23
     events:
-      "TBD": null
+      "Dialog": null
   - date: 2020-04-28
     events:
       "TBD": null
   - date: 2020-04-30
     events:
-      "TBD": null
+      "Conclusion": null
 ---

@@ -14,9 +14,9 @@ Spring 2020
 
 {% if site.announcements %}
 {{ site.announcements.last }}
-<a href="{{ site.baseurl }}/announcements" class="btn btn-outline fs-3">
+<!-- <a href="{{ site.baseurl }}/announcements" class="btn btn-outline fs-3">
   All Announcements
-</a>
+</a> -->
 {% endif %}
 
 {% for module in site.modules %}
