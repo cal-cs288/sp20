@@ -3,7 +3,7 @@ title: Lectures
 days:
   - date: 2020-01-21
     events:
-      "Introduction":
+      "Introduction ([1up](slides/lec_01_sp20_cs288_introduction_1up.pdf)) ([6up](slides/lec_01_sp20_cs288_introduction_6up.pdf))":
         null
   - date: 2020-01-23
     events:
