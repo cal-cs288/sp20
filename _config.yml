@@ -24,7 +24,7 @@ exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 # Theme settings
 remote_theme: pmarsceill/just-the-docs@v0.2.7
 color_scheme: light
-search_enabled: true
+search_enabled: false
 heading_anchors: true
 permalink: pretty
 nav_links:
