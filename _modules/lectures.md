@@ -8,7 +8,7 @@ days:
   - date: 2020-01-23
     events:
       "Language Modeling":
-        [J&M 3](https://web.stanford.edu/~jurafsky/slp3/3.pdf)
+        "[J&M 3](https://web.stanford.edu/~jurafsky/slp3/3.pdf)"
       "Project 0 released (due Thursday 1/30)": null
   - date: 2020-01-28
     events:
