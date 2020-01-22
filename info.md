@@ -30,5 +30,4 @@ The primary recommended texts for this course are:
 - Jurafsky and Martin, Speech and Language Processing, [3rd edition](https://web.stanford.edu/~jurafsky/slp3/).
 - Eisenstein, [Introduction to Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
-Note that M&S is free online if you access it from campus.  Also, make sure you get the purple 2nd edition of J+M, not the white 1st edition.
-
+Both texts are currently free online. 
