@@ -27,8 +27,8 @@ This course assumes a good background in basic machine learning and a strong abi
 
 The primary recommended texts for this course are:
 
-    - Jurafsky and Martin, Speech and Language Processing, 2nd edition ONLY [[amazon](http://www.amazon.com/Language-Processing-Prentice-Artificial-Intelligence/dp/0131873210)]
-    - Manning and Schuetze, Foundations of Statistical Natural Language Processing [[amazon](http://www.amazon.com/exec/obidos/tg/detail/-/0262133601)] [[online](http://cognet.mit.edu/library/books/view?isbn=0262133601)]
+- Jurafsky and Martin, Speech and Language Processing, [3rd edition](https://web.stanford.edu/~jurafsky/slp3/).
+- Eisenstein, [Introduction to Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Note that M&S is free online if you access it from campus.  Also, make sure you get the purple 2nd edition of J+M, not the white 1st edition.
 
