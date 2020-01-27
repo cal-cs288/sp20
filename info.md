@@ -31,3 +31,13 @@ The primary recommended texts for this course are:
 - Eisenstein, [Introduction to Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Both texts are currently free online. 
+
+## Office Hours
+
+Professor office hours: Tuesdays 3:30-4:30pm; 781 Soda Hall
+
+GSI office hours: Thursdays 5:00-6:00pm; Soda Alcove 341B
+
+## Late Work Policy
+
+Programming projects must be turned in electronically by midnight on the listed due date. You will have a total of 5 slip days for these projects, up to two of which can be used for each project. Note that slip days are counted at the granularity of days, rounded up to the nearest day. For example, for a project due at midnight on Thursday, any submission from Thursday midnight - Friday midnight will use up one slip day, any submission from Friday midnight - Saturday midnight will use up two slip days, and any submissions after Saturday midnight will receive no credit.  We may allow more days to be used on a single project if you seek prior permission.
