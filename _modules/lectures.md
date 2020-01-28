@@ -3,20 +3,19 @@ title: Lectures
 days:
   - date: 2020-01-21
     events:
-      "Introduction ([1up](slides/lec_01_sp20_cs288_introduction_1up.pdf)) ([6up](slides/lec_01_sp20_cs288_introduction_6up.pdf))":
+      "Introduction 1 ([1up](slides/lec_01_sp20_cs288_introduction_1up.pdf)) ([6up](slides/lec_01_sp20_cs288_introduction_6up.pdf))":
         null
   - date: 2020-01-23
     events:
-      "Language Modeling ([1up](slides/lec_02_sp20_cs288_language_models_1up.pdf)) ([4up](slides/lec_02_sp20_cs288_language_models_4up.pdf))":
-        "[J&M 3](https://web.stanford.edu/~jurafsky/slp3/3.pdf)"
+      "Introduction 2": null
       "[Project 0](projects/proj0.html) (due Thursday 1/30)": null
   - date: 2020-01-28
     events:
-      "Neural LMs":
-        null
+      "Language Modeling ([1up](slides/lec_02_sp20_cs288_language_models_1up.pdf)) ([4up](slides/lec_02_sp20_cs288_language_models_4up.pdf))":
+        "[J&M 3](https://web.stanford.edu/~jurafsky/slp3/3.pdf)"
   - date: 2020-01-30
     events:
-      "Language Modeling Tasks":
+      "Neural LMs":
         null
       "Project 1  (due Thursday 2/13)": null
   - date: 2020-02-04
