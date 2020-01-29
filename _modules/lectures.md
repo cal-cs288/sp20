@@ -15,15 +15,16 @@ days:
         "[J&M 3](https://web.stanford.edu/~jurafsky/slp3/3.pdf)"
   - date: 2020-01-30
     events:
-      "Neural LMs":
-        null
-      "Project 1  (due Thursday 2/13)": null
+      "Neural Networks":
+        "[Eisenstein 3.0-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf); [J&M 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf); [Goldberg 1-5](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)"
   - date: 2020-02-04
     events:
-      "Machine Translation 1": null
+      "Neural LMs":
+        "[J&M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf); [Goldberg 10-11](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)"
+      "Project 1  (extended; due Thursday 2/20)": null
   - date: 2020-02-06
     events:
-      "Machine Translation 2": null
+      "Machine Translation": null
   - date: 2020-02-11
     events:
       "Speech Signals": null
