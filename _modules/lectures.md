@@ -16,7 +16,7 @@ days:
   - date: 2020-01-30
     events:
       "Neural Networks ([1up](slides/lec_04_sp20_cs288_neural_networks_1up.pdf)) ([4up](slides/lec_04_sp20_cs288_neural_networks_4up.pdf)) ([demo](https://colab.research.google.com/drive/1bQRo_13IKuxk4xoqOWU7z5GWUuPuvzbu))":
-        "[Eisenstein 3.0-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf); [J&M 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf); [Goldberg 1-5](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)"
+        "[E 3.0-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf); [J&M 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf); [Goldberg 1-5](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)"
   - date: 2020-02-04
     events:
       "Neural LMs":
