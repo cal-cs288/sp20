@@ -21,7 +21,7 @@ days:
     events:
       "Neural LMs 1 ([1up](slides/cs288_sp20_02_language_models_1up.pdf)) ([4up](slides/cs288_sp20_02_language_models_4up.pdf))":
         "[J&M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf); [Goldberg 10-11](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)"
-      "Project 1  (extended; due Thursday 2/20)": null
+      "[Project 1](projects/proj1.html) (extended; due Thursday 2/20)": null
   - date: 2020-02-06
     events:
       "Neural LMs 2 ([1up](slides/cs288_sp20_02_language_models_1up.pdf)) ([4up](slides/cs288_sp20_02_language_models_4up.pdf))":
