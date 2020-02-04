@@ -3,7 +3,7 @@ title: Lectures
 days:
   - date: 2020-01-21
     events:
-      "Introduction 1 ([1up](slides/lec_01_sp20_cs288_introduction_1up.pdf)) ([6up](slides/lec_01_sp20_cs288_introduction_6up.pdf))":
+      "Introduction 1 ([1up](slides/cs288_sp20_01_introduction_1up.pdf)) ([6up](slides/cs288_sp20_01_introduction_6up.pdf))":
         null
   - date: 2020-01-23
     events:
@@ -11,20 +11,21 @@ days:
       "[Project 0](projects/proj0.html) (due Thursday 1/30)": null
   - date: 2020-01-28
     events:
-      "Language Modeling ([1up](slides/lec_02_sp20_cs288_language_models_1up.pdf)) ([4up](slides/lec_02_sp20_cs288_language_models_4up.pdf))":
+      "Language Modeling ([1up](slides/cs288_sp20_02_language_models_1up.pdf)) ([4up](slides/cs288_sp20_02_language_models_4up.pdf))":
         "[J&M 3](https://web.stanford.edu/~jurafsky/slp3/3.pdf)"
   - date: 2020-01-30
     events:
-      "Neural Networks ([1up](slides/lec_04_sp20_cs288_neural_networks_1up.pdf)) ([4up](slides/lec_04_sp20_cs288_neural_networks_4up.pdf)) ([demo](https://colab.research.google.com/drive/1bQRo_13IKuxk4xoqOWU7z5GWUuPuvzbu)) ([tips](https://colab.research.google.com/drive/16Mw62pK8stJ6fapBc6SVmRMZN-2GXGH4))":
+      "Neural Networks ([1up](slides/cs288_sp20_03_neural_networks_1up.pdf)) ([4up](slides/cs288_sp20_03_neural_networks_4up.pdf)) ([demo](https://colab.research.google.com/drive/1bQRo_13IKuxk4xoqOWU7z5GWUuPuvzbu)) ([tips](https://colab.research.google.com/drive/16Mw62pK8stJ6fapBc6SVmRMZN-2GXGH4))":
         "[E 3.0-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf); [J&M 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf); [G 1-5](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)"
   - date: 2020-02-04
     events:
-      "Neural LMs":
+      "Neural LMs 1 ([1up](slides/cs288_sp20_02_language_models_1up.pdf)) ([4up](slides/cs288_sp20_02_language_models_4up.pdf))":
         "[J&M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf); [Goldberg 10-11](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)"
       "Project 1  (extended; due Thursday 2/20)": null
   - date: 2020-02-06
     events:
-      "Machine Translation": null
+      "Neural LMs 2 ([1up](slides/cs288_sp20_02_language_models_1up.pdf)) ([4up](slides/cs288_sp20_02_language_models_4up.pdf))":
+        null
   - date: 2020-02-11
     events:
       "Speech Signals": null
