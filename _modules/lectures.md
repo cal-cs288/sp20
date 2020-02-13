@@ -28,16 +28,16 @@ days:
         null
   - date: 2020-02-11
     events:
-      "Speech Signals": null
+      "Neural LMs 3 ([1up](slides/cs288_sp20_02_language_models_1up.pdf)) ([4up](slides/cs288_sp20_02_language_models_4up.pdf))": null
   - date: 2020-02-13
     events:
-      "Speech Recognition": null
+      "Machine Translation 1 ([1up](slides/cs288_sp20_04_translation_1up.pdf)) ([4up](slides/cs288_sp20_04_translation_4up.pdf))": "[IBM Model 1](slides/lecture-ibm-model1.pdf)"
   - date: 2020-02-18
     events:
-      "Speech Synthesis": null
+      "Machine Translation 2": null
   - date: 2020-02-20
     events:
-      "Human Speech Production": null
+      "Machine Translation 3": null
       "Project 2  (due Thursday 3/5)": null
   - date: 2020-02-25
     events:
