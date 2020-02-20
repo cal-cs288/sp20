@@ -37,7 +37,7 @@ days:
       "Statistical MT ([1up](slides/cs288_sp20_05_statistical_translation_1up.pdf)) ([4up](slides/cs288_sp20_05_statistical_translation_4up.pdf))": null
   - date: 2020-02-20
     events:
-      "Neural MT": null
+      "Neural MT ([1up](slides/cs288_sp20_06_neural_translation_1up.pdf)) ([4up](slides/cs288_sp20_06_neural_translation_4up.pdf))": null
   - date: 2020-02-25
     events:
       "Parsing 1": null
