@@ -34,10 +34,10 @@ days:
       "Machine Translation ([1up](slides/cs288_sp20_04_translation_1up.pdf)) ([4up](slides/cs288_sp20_04_translation_4up.pdf))": "[IBM Model 1](slides/lecture-ibm-model1.pdf)"
   - date: 2020-02-18
     events:
-      "Statistical MT ([1up](slides/cs288_sp20_05_statistical_translation_1up.pdf)) ([4up](slides/cs288_sp20_05_statistical_translation_4up.pdf))": null
+      "Statistical MT ([1up](slides/cs288_sp20_05_statistical_translation_1up.pdf)) ([4up](slides/cs288_sp20_05_statistical_translation_4up.pdf))": "[Stat MT Book](http://statmt.org/book/)"
   - date: 2020-02-20
     events:
-      "Neural MT ([1up](slides/cs288_sp20_06_neural_translation_1up.pdf)) ([4up](slides/cs288_sp20_06_neural_translation_4up.pdf))": null
+      "Neural MT ([1up](slides/cs288_sp20_06_neural_translation_1up.pdf)) ([4up](slides/cs288_sp20_06_neural_translation_4up.pdf))": "[Translation with Attention](https://arxiv.org/abs/1409.0473) [Transformer](https://arxiv.org/abs/1706.03762)"
   - date: 2020-02-25
     events:
       "Parsing 1": null
