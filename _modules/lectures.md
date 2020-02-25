@@ -44,7 +44,7 @@ days:
   - date: 2020-02-27
     events:
       "Speech 2": null
-      "Project 2  (due Thursday 3/5)": null
+      "Project 2  (due Thursday 3/12)": null
   - date: 2020-03-03
     events:
       "Parsing 1": null
@@ -57,13 +57,13 @@ days:
   - date: 2020-03-12
     events:
       "Semantics": null
-      "Project 3  (due Thursday 4/2)": null
   - date: 2020-03-17
     events:
       "Structured Models": null
   - date: 2020-03-19
     events:
       "Grounding": null
+      "Project 3  (due Thursday 4/9)": null
   - date: 2020-03-31
     events:
       "Ethics in NLP": null
@@ -76,13 +76,13 @@ days:
   - date: 2020-04-09
     events:
       "TBD": null
-      "Project 4  (due Thursday 4/23)": null
   - date: 2020-04-14
     events:
       "TBD": null
   - date: 2020-04-16
     events:
       "Grammar Induction": null
+      "Project 4  (due Thursday 4/30)": null
   - date: 2020-04-21
     events:
       "Historical Linguistics": null
