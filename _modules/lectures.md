@@ -37,23 +37,23 @@ days:
       "Statistical MT ([1up](slides/cs288_sp20_05_statistical_translation_1up.pdf)) ([4up](slides/cs288_sp20_05_statistical_translation_4up.pdf))": "[Stat MT Book](http://statmt.org/book/)"
   - date: 2020-02-20
     events:
-      "Neural MT ([1up](slides/cs288_sp20_06_neural_translation_1up.pdf)) ([4up](slides/cs288_sp20_06_neural_translation_4up.pdf))": "[Attention](https://arxiv.org/abs/1409.0473) [Transformer](https://arxiv.org/abs/1706.03762)"
+      "Neural MT 1 ([1up](slides/cs288_sp20_06_neural_translation_1up.pdf)) ([4up](slides/cs288_sp20_06_neural_translation_4up.pdf))": "[Attention](https://arxiv.org/abs/1409.0473) [Transformer](https://arxiv.org/abs/1706.03762)"
   - date: 2020-02-25
     events:
-      "Speech 1 ([1up](slides/cs288_sp20_07_speech_1up.pdf)) ([4up](slides/cs288_sp20_07_speech_4up.pdf))": null
+      "Neural MT 2": null
   - date: 2020-02-27
     events:
-      "Speech 2": null
+      "Speech 1 ([1up](slides/cs288_sp20_07_speech_1up.pdf)) ([4up](slides/cs288_sp20_07_speech_4up.pdf))": null
       "Project 2  (due Thursday 3/12)": null
   - date: 2020-03-03
     events:
-      "Parsing 1": null
+      "Speech 2": null
   - date: 2020-03-05
     events:
-      "Parsing 2": null
+      "Parsing 1": null
   - date: 2020-03-10
     events:
-      "Parsing 3": null
+      "Parsing 2": null
   - date: 2020-03-12
     events:
       "Semantics": null
