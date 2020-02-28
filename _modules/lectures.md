@@ -44,7 +44,7 @@ days:
   - date: 2020-02-27
     events:
       "Speech 1 ([1up](slides/cs288_sp20_07_speech_1up.pdf)) ([4up](slides/cs288_sp20_07_speech_4up.pdf))": null
-      "Project 2  (due Thursday 3/12)": null
+      "[Project 2](projects/proj2.html) (due Thursday 3/12)": null
   - date: 2020-03-03
     events:
       "Speech 2": null
