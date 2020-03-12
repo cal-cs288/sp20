@@ -50,19 +50,19 @@ days:
       "Speech 2": null
   - date: 2020-03-05
     events:
-      "Parsing 1": null
+      "Speech 3": null
   - date: 2020-03-10
     events:
-      "Parsing 2": null
+      "Speech 4": null
   - date: 2020-03-12
     events:
-      "Semantics": null
+      "Parsing 1 ([1up](slides/cs288_sp20_08_syntax_1up.pdf)) ([4up](slides/cs288_sp20_08_syntax_4up.pdf))": null
   - date: 2020-03-17
     events:
-      "Structured Models": null
+      "Parsing 2": null
   - date: 2020-03-19
     events:
-      "Grounding": null
+      "Parsing 3": null
       "Project 3  (due Thursday 4/9)": null
   - date: 2020-03-31
     events:
