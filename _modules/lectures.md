@@ -66,7 +66,7 @@ days:
       "Project 3  (due Thursday 4/9)": null
   - date: 2020-03-31
     events:
-      "Ethics in NLP": null
+      "Neural Parsing": null
   - date: 2020-04-02
     events:
       "Multilingual Models": null
@@ -75,23 +75,23 @@ days:
       "Interactive Translation": null
   - date: 2020-04-09
     events:
-      "TBD": null
+      "Semantics": null
   - date: 2020-04-14
     events:
-      "TBD": null
+      "Structured Models": null
   - date: 2020-04-16
     events:
-      "Grammar Induction": null
+      "Grounding": null
       "Project 4  (due Thursday 4/30)": null
   - date: 2020-04-21
     events:
-      "Historical Linguistics": null
+      "Grammar Induction": null
   - date: 2020-04-23
     events:
-      "Dialog": null
+      "Historical Linguistics": null
   - date: 2020-04-28
     events:
-      "TBD": null
+      "Dialog": null
   - date: 2020-04-30
     events:
       "Conclusion": null
