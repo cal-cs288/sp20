@@ -66,7 +66,7 @@ days:
   - date: 2020-03-31
     events:
       "Neural Parsing": null
-      "Project 3  (due Thursday 4/9)": null
+      "[Project 3](projects/proj3.html) (due Thursday 4/16)": null
   - date: 2020-04-02
     events:
       "Multilingual Models": null
