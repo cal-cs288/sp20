@@ -68,7 +68,7 @@ days:
       "Neural Parsing": null
   - date: 2020-04-02
     events:
-      "Multilingual Models": null
+      "Multilingual Models ([1up](slides/cs288_sp20_09_multilingual_1up.pdf)) ([4up](slides/cs288_sp20_09_multilingual_4up.pdf))": null
       "[Project 3](projects/proj3.html) (due Thursday 4/16)": null
   - date: 2020-04-07
     events:
