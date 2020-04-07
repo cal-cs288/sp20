@@ -72,7 +72,7 @@ days:
       "[Project 3](projects/proj3.html) (due Thursday 4/16)": null
   - date: 2020-04-07
     events:
-      "Interactive Translation": null
+      "Interactive Translation ([1up](slides/cs288_sp20_10_interactive_mt_1up.pdf)) ([4up](slides/cs288_sp20_09_interactive_mt_4up.pdf))": null
   - date: 2020-04-09
     events:
       "Semantics": null
