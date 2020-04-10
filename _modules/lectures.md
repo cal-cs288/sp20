@@ -65,17 +65,17 @@ days:
       "Parsing 3": null
   - date: 2020-03-31
     events:
-      "Neural Parsing": null
+      "Neural Parsing ([1up](slides/cs288_sp20_09_neural_parsing_1up.pdf)) ([4up](slides/cs288_sp20_09_neural_parsing_4up.pdf))": null
   - date: 2020-04-02
     events:
-      "Multilingual Models ([1up](slides/cs288_sp20_09_multilingual_1up.pdf)) ([4up](slides/cs288_sp20_09_multilingual_4up.pdf))": null
+      "Multilingual Models ([1up](slides/cs288_sp20_10_multilingual_1up.pdf)) ([4up](slides/cs288_sp20_10_multilingual_4up.pdf))": null
       "[Project 3](projects/proj3.html) (due Thursday 4/16)": null
   - date: 2020-04-07
     events:
-      "Interactive Translation ([1up](slides/cs288_sp20_10_interactive_mt_1up.pdf)) ([4up](slides/cs288_sp20_09_interactive_mt_4up.pdf))": null
+      "Interactive Translation ([1up](slides/cs288_sp20_11_interactive_mt_1up.pdf)) ([4up](slides/cs288_sp20_11_interactive_mt_4up.pdf))": null
   - date: 2020-04-09
     events:
-      "Semantics": null
+      "Semantics ([1up](slides/cs288_sp20_12_semantics_1up.pdf)) ([4up](slides/cs288_sp20_12_semantics_4up.pdf))": null
   - date: 2020-04-14
     events:
       "Structured Models": null
