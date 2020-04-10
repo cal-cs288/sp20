@@ -24,11 +24,11 @@ days:
       "[Project 1](projects/proj1.html) (extended; due Thursday 2/20)": null
   - date: 2020-02-06
     events:
-      "Neural LMs 2 ([1up](slides/cs288_sp20_02_language_models_1up.pdf)) ([4up](slides/cs288_sp20_02_language_models_4up.pdf))":
+      "Neural LMs 2":
         null
   - date: 2020-02-11
     events:
-      "Neural LMs 3 ([1up](slides/cs288_sp20_02_language_models_1up.pdf)) ([4up](slides/cs288_sp20_02_language_models_4up.pdf))": null
+      "Neural LMs 3": null
   - date: 2020-02-13
     events:
       "Machine Translation ([1up](slides/cs288_sp20_04_translation_1up.pdf)) ([4up](slides/cs288_sp20_04_translation_4up.pdf))": "[IBM Model 1](slides/lecture-ibm-model1.pdf)"
