@@ -82,7 +82,7 @@ days:
   - date: 2020-04-16
     events:
       "Language reconstructing ([1up](slides/cs288_sp20_13_language_reconstruction_1up.pdf)) ([4up](slides/cs288_sp20_13_language_reconstruction_4up.pdf))": null
-      "Project 4  (due Thursday 4/30)": null
+      "[Project 4](projects/proj4.html) (due Thursday 4/30)": null
   - date: 2020-04-21
     events:
       "Grammar Induction": null
