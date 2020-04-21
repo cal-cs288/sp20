@@ -85,14 +85,14 @@ days:
       "[Project 4](projects/proj4.html) (due Thursday 4/30)": null
   - date: 2020-04-21
     events:
-      "Grammar Induction": null
+      "Grounding ([1up](slides/cs288_sp20_14_grounding_1up.pdf)) ([4up](slides/cs288_sp20_14_grounding_4up.pdf))": null
   - date: 2020-04-23
     events:
-      "Historical Linguistics": null
+      "TBD": null
   - date: 2020-04-28
     events:
-      "Dialog": null
+      "TBD": null
   - date: 2020-04-30
     events:
-      "Conclusion": null
+      "TBD": null
 ---
