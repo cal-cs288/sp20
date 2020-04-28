@@ -88,10 +88,10 @@ days:
       "Grounding ([1up](slides/cs288_sp20_14_grounding_1up.pdf)) ([4up](slides/cs288_sp20_14_grounding_4up.pdf))": null
   - date: 2020-04-23
     events:
-      "TBD": null
+      "Guest Lecture: Zhou Yu on Dialog": null
   - date: 2020-04-28
     events:
-      "TBD": null
+      "Guest Lecture: Eddie Chang on Speech Neuroscience": null
   - date: 2020-04-30
     events:
       "TBD": null
